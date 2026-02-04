@@ -1,5 +1,4 @@
-Author: Rakesh Mahakur
-GitHub: https://github.com/rakesh-analytics-ops
+
 
  Automation Solver
 Automated Data Cleaning Pipeline for Analytics, BI & ML Workflows
