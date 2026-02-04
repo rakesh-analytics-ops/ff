@@ -1,7 +1,7 @@
 
 
- Automation Solver
-Automated Data Cleaning Pipeline for Analytics, BI & ML Workflows
+# Automation Solver
+# Automated Data Cleaning Pipeline for Analytics, BI & ML Workflows
 Overview
 
 This repository contains a reusable, automated data cleaning pipeline that I use as the first step in all my analytics, BI, and machine learning projects.
