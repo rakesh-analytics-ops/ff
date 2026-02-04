@@ -1,10 +1,9 @@
 Author: Rakesh Mahakur
 GitHub: https://github.com/rakesh-analytics-ops
 
-🧩 PART 1 — GitHub Repository (Professional / Technical Style)
-🧠 Automation Solver
+ Automation Solver
 Automated Data Cleaning Pipeline for Analytics, BI & ML Workflows
-📌 Overview
+Overview
 
 This repository contains a reusable, automated data cleaning pipeline that I use as the first step in all my analytics, BI, and machine learning projects.
 
